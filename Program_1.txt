@@ -1,0 +1,5 @@
+ld F1 0
+ld F2 1
+add F3 F1 F2
+mul F4 F3 F3
+sd F4 2
